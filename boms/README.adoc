@@ -1,0 +1,25 @@
+= SBOM, VEX and the rest
+
+
+== SBOM 
+
+
+=== Formats
+
+
+==== CycloneDX
+
+> Created by OWASP
+
+==== SPDX
+
+> Created by Linux Foundation. It was created as a wway to track licenses, which evolve to include library dependencies and security
+
+
+== Vulnerability Exploitability eXchange (VEX)
+
+
+== Common Security Advisorry Framework (CSAF)
+
+
+
